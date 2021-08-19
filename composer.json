@@ -1,0 +1,14 @@
+{
+    "name": "elildson/login_w_api",
+    "description": "Login com Api",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Elildson",
+            "email": "elildson1@hotmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
